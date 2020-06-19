@@ -1,0 +1,5 @@
+# collect used package versions
+
+pip==20.1.1
+pylint==2.5.3
+numpy==1.18.5

@@ -1,0 +1,7 @@
+# ignore pushing the following files/folders
+
+# vs code
+.vscode
+
+# venv
+.venv_snake
