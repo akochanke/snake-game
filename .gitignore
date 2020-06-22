@@ -5,3 +5,6 @@
 
 # venv
 .venv_snake
+
+# package
+logs/

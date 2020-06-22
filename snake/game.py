@@ -242,7 +242,7 @@ if __name__ == "__main__":
         'Basic snake game. Can be played within bash via the curses package. \
          The snake can be controlled via i (up), j (left), k (down), l \
          (right).')
-    parser.add_argument('--game_steps', type=int, default=50,
+    parser.add_argument('--game_steps', type=int, default=100,
         help='An integer to define the length of the game.')
 
     args = parser.parse_args()
